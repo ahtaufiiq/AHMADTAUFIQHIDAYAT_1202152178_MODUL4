@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AHMAD-TAUFIQ-HIDAYAT_1202152178_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="find_image">Find Image</string>
+    <string name="mulai_asynctask">Mulai AsynTask</string>
+    <string name="link_gambar">http://techradix.in/wp-content/uploads/2018/03/Android-Oreo-Training-Institute-in-Surat.gif</string>
+
+    <string-array name="names">
+        <item>Andi</item>
+        <item>Adi</item>
+        <item>Alex</item>
+        <item>Ergon</item>
+        <item>Ipat</item>
+        <item>Hakim</item>
+        <item>Ujang</item>
+        <item>Yuzar</item>
+        <item>Wirasandi</item>
+        <item>Budi</item>
+        <item>Jerry</item>
+        <item>Rommy</item>
+        <item>Hidayat</item>
+        <item>Ahmad</item>
+        <item>Hisam</item>
+    </string-array>
+</resources>
